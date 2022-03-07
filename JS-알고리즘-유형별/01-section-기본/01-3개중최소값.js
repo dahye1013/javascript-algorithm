@@ -5,7 +5,6 @@
  */
 
 //[내 풀이법] ------------------------------------------------------
-
 function solution(...args) {
   const arr = Array(...args);
   return arr.reduce((acc, cur) => {
